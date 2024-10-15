@@ -3,6 +3,7 @@ html {
 }
 
 div {
+	margin-top: 100 px;
 	text-align: center;
 	color: white;
 	margin-left: 25%;
